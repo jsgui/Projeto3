@@ -220,6 +220,10 @@ header a {
     height: 150px;
     margin: -20px 0px 0px 50px;
 }
+.main-content {
+    width: 500px;
+
+}
 
 section {
     background: rgba(245, 245, 220, 0.5) height: 100%;
